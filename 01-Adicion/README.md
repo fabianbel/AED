@@ -5,11 +5,9 @@ Curso: K1051 <br>
 Trabajo Practico: 01-Adicion <br>
 
 <br>
-
 _Problema_
 
 <br>
-
 Solicitarle al usuario el ingreso de dos números enteros y mostrarle la suma<br>
 <br>
 <br>
