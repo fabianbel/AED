@@ -1,8 +1,8 @@
 ***Algoritmo y Estuctura de Datos***
 
-Curso: K1051
-2019
-Trabajo Practico: 01-Adicion
+Curso: K1051 <br>
+2019 <br>
+Trabajo Practico: 01-Adicion <br>
 
 <br>
 
