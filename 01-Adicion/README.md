@@ -1,9 +1,8 @@
 ***Algoritmo y Estuctura de Datos***
-Curso: K1051
-2019
-Trabajo Practico: 01-Adicion
 
-<br>
+Curso: K1051 <br>
+2019 <br>
+Trabajo Practico: 01-Adicion <br>
 
 -Problema-
 
@@ -29,7 +28,6 @@ Diagrama de flujo para este TP<br>
 <br>
 
 Representacion textual del caso o "pseudo-código"<br>
-
 
 1. Leer A<br>
 2. Leer B<br>
